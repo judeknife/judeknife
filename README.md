@@ -1,7 +1,7 @@
 # about me
 
-- 👋 Olá, eu sou @judeknife
-- :+1: Meu email de contato é isabelly.christenson@escola.pr.gov.br
+- 👋 Olá, eu sou **@judeknife**
+- :+1: Meu email de contato é [email](isabelly.christenson@escola.pr.gov.br)
 - 👀 Eu estou interessada em aprender a progamar novas linguas 
 - 🌱 Estou aprendendo a progamar recentemente a linguagem de JavaScript e Scratch
 
